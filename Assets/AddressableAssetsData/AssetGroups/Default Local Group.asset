@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b39b9c995d679a141af4a4a8592478a7
+  m_SerializeEntries:
+  - m_GUID: 1a686131e80db7c44b334592beab1fd9
+    m_Address: health_potion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 112247853555212907, guid: 1a686131e80db7c44b334592beab1fd9, type: 3}
+    m_TargetAsset: {fileID: 112247853555212907, guid: 1a686131e80db7c44b334592beab1fd9, type: 3}
+  - m_GUID: 5820c813c2450ff4abe5a686731c7a6e
+    m_Address: mana_potion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9038909113356076278, guid: 5820c813c2450ff4abe5a686731c7a6e, type: 3}
+    m_TargetAsset: {fileID: 9038909113356076278, guid: 5820c813c2450ff4abe5a686731c7a6e, type: 3}
+  - m_GUID: f0324f1080435e246ae7e3c3297430d1
+    m_Address: stamina_potion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1227979162121069782, guid: f0324f1080435e246ae7e3c3297430d1, type: 3}
+    m_TargetAsset: {fileID: 1227979162121069782, guid: f0324f1080435e246ae7e3c3297430d1, type: 3}
+  - m_GUID: 607c053348d57944e876b936a463e59d
+    m_Address: bow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 126432305652241793, guid: 607c053348d57944e876b936a463e59d, type: 3}
+    m_TargetAsset: {fileID: 126432305652241793, guid: 607c053348d57944e876b936a463e59d, type: 3}
+  - m_GUID: 5d4ebdbf51f81be48bd4e5eba130e16c
+    m_Address: sword
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6200580250495203068, guid: 5d4ebdbf51f81be48bd4e5eba130e16c, type: 3}
+    m_TargetAsset: {fileID: 6200580250495203068, guid: 5d4ebdbf51f81be48bd4e5eba130e16c, type: 3}
+  - m_GUID: fe045d37769aa1b428cd60cf8bb485e8
+    m_Address: shield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7772968531104941853, guid: fe045d37769aa1b428cd60cf8bb485e8, type: 3}
+    m_TargetAsset: {fileID: 7772968531104941853, guid: fe045d37769aa1b428cd60cf8bb485e8, type: 3}
+  - m_GUID: f88872f7ff817334e8991834740dc1b8
+    m_Address: coin_bag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2328703823841612290, guid: f88872f7ff817334e8991834740dc1b8, type: 3}
+    m_TargetAsset: {fileID: 2328703823841612290, guid: f88872f7ff817334e8991834740dc1b8, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 62188706d808c9646b3037e15424e8a9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0121e0588905e304b9b1553087d3f22a, type: 2}
+    - {fileID: 11400000, guid: 77d853562e17cf04eba227ca95b508f7, type: 2}
