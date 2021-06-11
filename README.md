@@ -1,6 +1,6 @@
 This is a Unity project which demonstrates the use of Scriptable Objects to create an inventory system which is both, modular and scalable.
 
-Read more about it in this Medium article.
+Read more about it in this [Medium article](https://divinesense.medium.com/inventory-system-using-scriptable-objects-d33c5af3c0f7)
 
 ## References
 

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InventoryItem_sprite_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+    - {fileID: 2800000, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+    - {fileID: 2800000, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+    - {fileID: 2800000, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+    - {fileID: 2800000, guid: c8e2d6805779c1346817d5a16876cf41, type: 3}
+    totalSpriteSurfaceArea: 6656
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6464112707530998004, guid: c8e2d6805779c1346817d5a16876cf41, type: 3}
+  - {fileID: 3591143236717930263, guid: c8e2d6805779c1346817d5a16876cf41, type: 3}
+  - {fileID: -2291820766185510934, guid: c8e2d6805779c1346817d5a16876cf41, type: 3}
+  - {fileID: 5885808454508878124, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 645862941518930390, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 5132767488201959923, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 7502298761440109018, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 523618354135889551, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 8665541557033414633, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 95089889868705038, guid: b99b811520f5ded40b4db09d3bd5183b, type: 3}
+  - {fileID: 1859978014519882215, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+  - {fileID: -6772312994469013702, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+  - {fileID: 9103117781406271479, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+  - {fileID: 8866111777554027243, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+  - {fileID: 181269520343263417, guid: 4f7b4265d905f3440a6fc9a295d8c360, type: 3}
+  - {fileID: 917975514868848374, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: -5899147406190725381, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: -4794905452346512710, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: 230806807498387438, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: -8921656592197961495, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: -2947524210986107665, guid: 5840b746ca9e826489f6a35e0ba20aac, type: 3}
+  - {fileID: 9016920484927584231, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+  - {fileID: 5586232059807958857, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+  - {fileID: 8364828346423198648, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+  - {fileID: -7765002787326406489, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+  - {fileID: -5989969127270608777, guid: 37c4509e6c93de84aa9abe086da855db, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gold_bag 2
+  - gold_bag 0
+  - gold_bag 1
+  - potion 6
+  - potion 4
+  - potion 5
+  - potion 2
+  - potion 3
+  - potion 0
+  - potion 1
+  - bow 1
+  - bow 0
+  - bow 3
+  - bow 2
+  - bow 4
+  - sword 2
+  - sword 3
+  - sword 0
+  - sword 1
+  - sword 4
+  - sword 5
+  - shield 0
+  - shield 1
+  - shield 2
+  - shield 3
+  - shield 4
+  m_RenderDataMap: {}
+  m_Tag: InventoryItem_sprite_atlas
+  m_IsVariant: 0
