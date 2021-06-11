@@ -33,8 +33,8 @@ class InventoryManager : MonoBehaviour
          * At the very least we need code changes to change the contents of the
          * inventory in case we use this approach
          */
-        //InitializeInventory();
-        InitializeInventoryForTutorial();
+        InitializeInventory();
+        //InitializeInventoryForTutorial();
     }
 
     private void InitializeInventoryForTutorial()

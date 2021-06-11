@@ -21,44 +21,44 @@ MonoBehaviour:
     m_Address: health_potion
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 112247853555212907, guid: 1a686131e80db7c44b334592beab1fd9, type: 3}
-    m_TargetAsset: {fileID: 112247853555212907, guid: 1a686131e80db7c44b334592beab1fd9, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5820c813c2450ff4abe5a686731c7a6e
     m_Address: mana_potion
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 9038909113356076278, guid: 5820c813c2450ff4abe5a686731c7a6e, type: 3}
-    m_TargetAsset: {fileID: 9038909113356076278, guid: 5820c813c2450ff4abe5a686731c7a6e, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f0324f1080435e246ae7e3c3297430d1
     m_Address: stamina_potion
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 1227979162121069782, guid: f0324f1080435e246ae7e3c3297430d1, type: 3}
-    m_TargetAsset: {fileID: 1227979162121069782, guid: f0324f1080435e246ae7e3c3297430d1, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 607c053348d57944e876b936a463e59d
     m_Address: bow
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 126432305652241793, guid: 607c053348d57944e876b936a463e59d, type: 3}
-    m_TargetAsset: {fileID: 126432305652241793, guid: 607c053348d57944e876b936a463e59d, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5d4ebdbf51f81be48bd4e5eba130e16c
     m_Address: sword
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 6200580250495203068, guid: 5d4ebdbf51f81be48bd4e5eba130e16c, type: 3}
-    m_TargetAsset: {fileID: 6200580250495203068, guid: 5d4ebdbf51f81be48bd4e5eba130e16c, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: fe045d37769aa1b428cd60cf8bb485e8
     m_Address: shield
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 7772968531104941853, guid: fe045d37769aa1b428cd60cf8bb485e8, type: 3}
-    m_TargetAsset: {fileID: 7772968531104941853, guid: fe045d37769aa1b428cd60cf8bb485e8, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f88872f7ff817334e8991834740dc1b8
     m_Address: coin_bag
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 2328703823841612290, guid: f88872f7ff817334e8991834740dc1b8, type: 3}
-    m_TargetAsset: {fileID: 2328703823841612290, guid: f88872f7ff817334e8991834740dc1b8, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 62188706d808c9646b3037e15424e8a9, type: 2}
   m_SchemaSet:
